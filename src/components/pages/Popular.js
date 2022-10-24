@@ -13,7 +13,7 @@ const Popular = () => {
 
       return (
          <div>
-             <h1>Popular</h1>
+             <h1>Rolan Usonov</h1>
              <div className="blockPopular">
                  {
                      popular.map(el  =>(
