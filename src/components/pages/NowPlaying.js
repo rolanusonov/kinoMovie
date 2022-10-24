@@ -10,7 +10,7 @@ const NowPlaying = () => {
     },[])
     return (
         <div>
-            <h1>Now Playing</h1>
+            <h1>MURZABEK</h1>
             <div className="blockPopular">
                 {
                     playing.map(el => (
