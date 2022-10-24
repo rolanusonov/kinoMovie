@@ -13,7 +13,6 @@ function App() {
         <Routes>
             <Route path="/popular" element={<Popular/>}/>
             <Route path="/nowplaying" element={<NowPlaying/>}/>
-
         </Routes>
           <Popular/>
       </div>
